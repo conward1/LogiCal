@@ -1,2 +1,2 @@
 # LogiCal
-HCI Work/Student Calendar
+HCI Work / Student Calendar
